@@ -1,0 +1,6 @@
+{
+  "name": "Ashar Appareal",
+  "description": "Professional minimalist luxury clothing brand featuring high-quality product galleries, contemporary tailoring, and fine textiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
